@@ -7,7 +7,7 @@ I'm Zach, a student at Stanford University. I majored in computer science with a
 ## Past Work
 
 - January 2023 - Present: AI Research Intern at Stanford's [IRIS Lab][irislink] working on improving robustness, dexterity, and generalization for robotics
-- March through December 2022: AI Research Intern at the [Stanford Navigation and Autonomous Vehicle Lab][https://navlab.stanford.edu/] where I developed graph neural network architectures to improve GPS location accuracy from smartphone data
+- March through December 2022: AI Research Intern at the [Stanford Navigation and Autonomous Vehicle Lab][navlink] where I developed graph neural network architectures to improve GPS location accuracy from smartphone data
 - June through August 2021: Software Engineering Intern at Amazon where I used AWS serverless architecture to create an auditing service for permission filters in the AWS supply chain infrastructure
 
 - Read my writing [on this site][posts] or in the [Atom feed][atom].
@@ -54,6 +54,7 @@ site][gr-prev], [the next site][gr-next], or a [random ring-member][gr-rand].
 
 [saillink]: https://ai.stanford.edu
 [irislink]: https://irislab.stanford.edu/
+[navlink]: https://navlab.stanford.edu/]
 
 [posts]: @/posts/_index.md
 [atom]: /atom.xml
