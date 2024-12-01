@@ -1,5 +1,4 @@
-title: My Website
-description: A simple GitHub Pages site
+title: Zach Witzel
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
