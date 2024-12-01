@@ -1,5 +1,5 @@
 title: Zach Witzel
-remote_theme: jekyll/minima
+remote_theme: minima
 plugins:
   - jekyll-remote-theme
 minima:
