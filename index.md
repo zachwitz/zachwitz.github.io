@@ -6,10 +6,10 @@ I'm Zach, a student at Stanford University. I majored in computer science with a
 
 ## Past Work
 
-- January 2023 \ Present: AI Research Intern at Stanford's [IRIS Lab][irislink] working on improving robustness, dexterity, and generalization for robotics
-- March \ December 2022: AI Research Intern at the [Stanford Navigation and Autonomous Vehicle Lab][navlink] where I developed graph neural network architectures to improve GPS location accuracy from smartphone data
+- January 2023 \- Present: AI Research Intern at Stanford's [IRIS Lab][irislink] working on improving robustness, dexterity, and generalization for robotics
+- March \- December 2022: AI Research Intern at the [Stanford Navigation and Autonomous Vehicle Lab][navlink] where I developed graph neural network architectures to improve GPS location accuracy from smartphone data
 - June through August 2021: Software Engineering Intern at Amazon where I used AWS serverless architecture to create an auditing service for permission filters in the AWS supply chain infrastructure
-- June\
+- June \- August 2020: 
 
 - Read my writing [on this site][posts] or in the [Atom feed][atom].
 - Download [txtodo][txtodo-site] from [the App Store][txtodo-store] and read
