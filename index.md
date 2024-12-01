@@ -30,7 +30,6 @@ You can find me on most platforms as FIGBERT:
 - [Twitter][twitter] (@therealfigbert)
 - [Mastodon][mastodon] (@figbert@fosstodon.org)
 - [Reddit][reddit] (@therealFIGBERT)
-- [Hacker News][hn] (figbert)
 
 ## Keys and Crypto
 
