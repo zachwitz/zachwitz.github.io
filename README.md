@@ -2,14 +2,6 @@
 layout: default
 title: Hello World
 ---
-I'm Zach, a student at Stanford University. I majored in computer science with a minor in math for my undergrad degree and am currently completing my master's in computer science as well. I'm a part of the [Stanford AI Lab][saillink], specifically working under Chelsea Finn in the [IRIS Lab][irislink]. I am interested in offline policy evaluation, dexterity, and generalization for robotics applications. I have so far worked on robustness and fine-grained manipulation using imitation learning during my undergrad research. I am currently applying to PhD programs and hope to be able to work further in these areas during my PhD in order to develop methods in reinforcement and machine learning to enhance robot adaptability and perception.
-
-## Past Work
-
-- January 2023 to Present: AI Research Intern at Stanford's [IRIS Lab][irislink] under Prof. Chelsea Finn working on improving robustness, dexterity, and generalization for robotics
-- March through December 2022: AI Research Intern at Stanford's [Navigation and Autonomous Vehicle Lab][navlink] under Prof. Grace Gao where I developed graph neural network architectures to improve GPS location accuracy from smartphone data
-- June through August 2021: Software Engineering Intern at Amazon where I used AWS serverless architecture to create an auditing service for permission filters in the AWS supply chain infrastructure
-- June through August 2020: CS Research Intern for Prof. Ran Libeskind-Hadas studying algorithms for solving the binary tanglegram problem and cophylogeny reconstruction problem
 
 - Read my writing [on this site][posts] or in the [Atom feed][atom].
 - Download [txtodo][txtodo-site] from [the App Store][txtodo-store] and read
