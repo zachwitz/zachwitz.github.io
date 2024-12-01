@@ -14,7 +14,7 @@ I'm Zach, a student at Stanford University. I majored in computer science with a
 - Read my writing [on this site][posts] or in the [Atom feed][atom].
 - Download [txtodo][txtodo-site] from [the App Store][txtodo-store] and read
 the [writeup][txtodo-article].
-- Take a look at the [source code for this site][site-src]. It's all open
+- Take a look at the [source code for this site][site-src]. It's allopen
 source!
 - Check out my text adventure, [One Angry Wizard][txt-adventure].
 
