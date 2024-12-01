@@ -53,8 +53,8 @@ This site is a proud member of the [geekring][geekring]! Check out [the previous
 site][gr-prev], [the next site][gr-next], or a [random ring-member][gr-rand].
 
 [saillink]: https://ai.stanford.edu
-[irislink]: https://irislab.stanford.edu/
-[navlink]: https://navlab.stanford.edu/]
+[irislink]: https://irislab.stanford.edu
+[navlink]: https://navlab.stanford.edu
 
 [posts]: @/posts/_index.md
 [atom]: /atom.xml
