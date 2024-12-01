@@ -1,15 +1,6 @@
-+++
-title = "Home"
-insert_anchor_links = "left"
-template = "section.html"
-+++
-
 ## Hello World
 
-I'm FIGBERT, an Israeli-American high school student with a passion for Computer
-Science and Engineering. I spend my time coding side-projects, doing schoolwork,
-and playing the occasional videogame. My current goal is to become a full-stack
-developer, proficient in everything from front-end design to cybersecurity.
+I'm Zach, a student at Stanford University. I majored in computer science with a minor in math for my undergrad degree and am currently completing my master's in computer science as well. I'm a part of the [Stanford AI Lab][saillink], specifically working under Chelsea Finn in the [IRIS Lab][irislink] I focus on machine learning, 
 
 ## My Work
 
@@ -56,6 +47,9 @@ This site is a proud member of [Hotline Webring][hotline-webring]! Check out
 
 This site is a proud member of the [geekring][geekring]! Check out [the previous
 site][gr-prev], [the next site][gr-next], or a [random ring-member][gr-rand].
+
+[saillink]: https://ai.stanford.edu
+[irislink]: https://irislab.stanford.edu/
 
 [posts]: @/posts/_index.md
 [atom]: /atom.xml
