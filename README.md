@@ -1,3 +1,6 @@
+layout: default
+title: Hello World
+
 I'm Zach, a student at Stanford University. I majored in computer science with a minor in math for my undergrad degree and am currently completing my master's in computer science as well. I'm a part of the [Stanford AI Lab][saillink], specifically working under Chelsea Finn in the [IRIS Lab][irislink]. I am interested in offline policy evaluation, dexterity, and generalization for robotics applications. I have so far worked on robustness and fine-grained manipulation using imitation learning during my undergrad research. I am currently applying to PhD programs and hope to be able to work further in these areas during my PhD in order to develop methods in reinforcement and machine learning to enhance robot adaptability and perception.
 
 ## Past Work
