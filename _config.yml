@@ -1,6 +1,6 @@
 title: Zach Witzel
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
+theme: minima
+# plugins:
+#   - jekyll-remote-theme
 minima:
   skin: dark # or auto if you want it to switch with your system settings.
